@@ -85,7 +85,7 @@ He left her quickly, fearing that her intimacy might turn to jibing and wishing 
  
  1. Cut the cheese
 
- Make sure that the cheese is cut into little triangles.
+    Make sure that the cheese is cut into little triangles.
 
 2. Slice the tomatoes
 
