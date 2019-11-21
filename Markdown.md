@@ -79,9 +79,9 @@ He left her quickly, fearing that her intimacy might turn to jibing and wishing 
   * Has no hair
   * Often wears green
 * Castafiore
- * An opera singer
- * Has white hair
- * Is possibly mentally unwell
+  * An opera singer
+  * Has white hair
+  * Is possibly mentally unwell
  
  1. Cut the cheese
 
