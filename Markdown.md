@@ -75,9 +75,9 @@ He left her quickly, fearing that her intimacy might turn to jibing and wishing 
 * Dahlia (_Coreopsideae Dahlia_)
 
 * Calculus
- * A professor
- * Has no hair
- * Often wears green
+  * A professor
+  * Has no hair
+  * Often wears green
 * Castafiore
  * An opera singer
  * Has white hair
